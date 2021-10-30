@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+GroupProjParker/Content/StarterContent/Textures/
+
+GroupProjParker/Content/StarterContent/Shapes/
+
+GroupProjParker/Content/StarterContent/Props/
+
+GroupProjParker/Content/StarterContent/Materials/
+
+GroupProjParker/Content/StarterContent/Particles/Materials/
+
+GroupProjParker/Content/StarterContent/Particles/
+
+GroupProjParker/Content/StarterContent/Audio/
