@@ -92,3 +92,9 @@ GroupProjParker/Saved/Logs/
 GroupProjParker/Saved/
 
 GroupProjParker/Intermediate/
+
+*.bin
+
+*.png
+
+*.log
